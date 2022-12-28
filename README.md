@@ -1,4 +1,7 @@
-### A simple example of React-Redux for beginners.<br />It's really an awesome thing for managing global state.
+## Example Code
+A simple example of React-Redux for beginners.
+<br />
+It's really an awesome thing for managing global state.
 
 ```
 
